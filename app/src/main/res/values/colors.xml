@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 3 Auto-generated colors by Android Studio as part of the default theme-->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Begin with the provided strings.xml -->
+    <color name="white">#ffffff</color>
+    <color name="red">#ff0000</color>
+    <color name="green">#00ff00</color>
+    <color name="blue">#0000ff</color>
+    <color name="black">#000000</color>
+
+    <!-- 3 additional colors -->
+    <color name="yellow">#ffff00</color>
+    <color name="magenta">#ff00ff</color>
+    <color name="cyan">#00ffff</color>
+</resources>

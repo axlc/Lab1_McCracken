@@ -1,0 +1,35 @@
+<resources>
+    <!-- basic text -->
+    <string name="app_name">Lab1_McCracken</string>
+    <string name="hello">Hi there. This is a string from strings.xml</string>
+    <string name="colorIntro">Here are some colors: </string>
+
+    <!-- color text -->
+    <string name="white">#ffffff: white</string>
+    <string name="red">#ff0000: red</string>
+    <string name="green">#00ff00: green</string>
+    <string name="blue">#0000ff: blue</string>
+    <string name="black">#000000: black</string>
+
+    <!-- additional color text -->
+    <string name="yellow">#ffff00: yellow</string>
+    <string name="magenta">#ff00ff: magenta</string>
+    <string name="cyan">#00ffff: cyan</string>
+
+    <!-- different sizes -->
+    <string name="normal">Normal Text.</string>
+    <string name="big">Big</string>
+    <string name="bigger">BIGBIG!</string>
+
+    <!-- different spacing -->
+    <string name="centered">Centered Text</string>
+    <string name="right">Right Aligned</string>
+
+    <!-- new properties -->
+    <string name="newIntro">These are some new properties I\'ve found:</string>
+    <string name="allCaps">oops, i left on capslock. oh wait.</string>
+    <string name="background">I used this earlier for visibility, but here\'s a background.</string>
+    <string name="selectable">Right now, only this text is selectable! Copy at will!</string>
+
+
+</resources>
